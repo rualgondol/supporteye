@@ -1,0 +1,9 @@
+
+{
+  "name": "Support-Eye",
+  "description": "Remote visual support application for Canadian IT technicians. Allows real-time video assistance with live annotations via SMS link (Email-to-SMS).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
